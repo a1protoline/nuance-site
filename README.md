@@ -12,4 +12,4 @@ Vorgesehene GitHub-Pages-URLs:
 - `https://a1protoline.github.io/nuance-site/privacy.html`
 - `https://a1protoline.github.io/nuance-site/support.html`
 
-Nach dem Push muss GitHub Pages für das Repository aktiviert sein. Der Workflow liegt unter `.github/workflows/pages.yml`.
+GitHub Pages ist für dieses Repository aus `main`/Root aktiviert.

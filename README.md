@@ -12,4 +12,4 @@ Vorgesehene GitHub-Pages-URLs:
 - `https://a1protoline.github.io/nuance-site/privacy.html`
 - `https://a1protoline.github.io/nuance-site/support.html`
 
-GitHub Pages ist für dieses Repository aus `main`/Root aktiviert.
+GitHub Pages ist für dieses Repository per GitHub Actions aktiviert.

@@ -1,0 +1,15 @@
+# Nuance Website
+
+Statische Seiten für App Store Connect:
+
+- `index.html`: App-Seite
+- `privacy.html`: Privacy Policy URL
+- `support.html`: Support URL
+
+Vorgesehene GitHub-Pages-URLs:
+
+- `https://a1protoline.github.io/nuance-site/`
+- `https://a1protoline.github.io/nuance-site/privacy.html`
+- `https://a1protoline.github.io/nuance-site/support.html`
+
+Nach dem Push muss GitHub Pages für das Repository aktiviert sein. Der Workflow liegt unter `.github/workflows/pages.yml`.
